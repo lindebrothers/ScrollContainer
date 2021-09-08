@@ -13,7 +13,7 @@ dependencies: [
 ```
 
 Simple usage:
-```
+``` Swift
 import ScrollContainer
 import SwiftUI
 
