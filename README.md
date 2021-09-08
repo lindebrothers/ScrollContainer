@@ -2,6 +2,7 @@
 
 This package provides a adjustable and scrollable SwiftUI view on top over another view. It uses the UIScrollViewDelegate via the [Introspect](https://github.com/siteline/SwiftUI-Introspect) package to recognize the gestures since the SwiftUI API does not yet provide these methods.
 
+[ScrollContainer](https://github.com/lindebrothers/ScrollContainer/tree/main/ScrollContainerExample/ScrollContainer.git)!
 
 Install this package with SPM
 
